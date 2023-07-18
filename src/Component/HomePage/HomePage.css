@@ -1,0 +1,50 @@
+body {
+    background-color: beige;
+}
+
+.slider {
+  margin: 9cm;
+}
+
+img.slider{
+  overflow-y: hidden;
+  overflow: hidden;
+}
+
+
+.prodhero{
+    width: 100%;
+    height: 400px;
+  }
+  
+  #heroprod{
+    position: relative;
+    text-align: center;
+  }
+  
+  .herotext{
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 55px;
+    font-style: italic;
+    color: white;
+  }
+
+h1.quote{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+  }
+
+  h4 {
+      text-align: center;
+
+  }
+
+  accessories.jpg {
+   padding: none;
+
+  }

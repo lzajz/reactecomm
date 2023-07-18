@@ -1,0 +1,33 @@
+*{
+  align-items: center;
+}
+
+
+.productpg{
+  margin: .5cm;
+  width: 300px;
+    height: 650px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+    
+  
+  }
+
+.productpg > img {
+  width: 300px;
+  height: 300px;
+  margin: .7cm;
+
+}
+
+button{
+  border: none;
+  padding: 10px;
+  color: white;
+  background-color: #D46209;
+  text-align: center;
+  width: 100%;
+  font-size: 18px;
+}
+

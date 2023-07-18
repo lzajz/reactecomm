@@ -1,0 +1,93 @@
+{ 
+    "Products" :[
+        {
+          "category":"household",
+    "image": "/images/florero.jpg",
+   " title": "Florero de Barro Negro",
+    "description":
+      " Hand sculpted Oaxacan black clay with hand painted acrylic designs",
+    "price": "$79.99"
+  },
+
+  {
+    "category":"household",
+    "image":"/images/barro 3.jpg",
+   " title": "Hoya de Barro ",
+    "description": " Handmade clay cooking pot",
+    "price": "$49.99"
+  },
+  {
+    "category":"household",
+    "image":"/images/alebrije.jpg",
+   " title": "Alebrije ",
+    "description": " Handpainted owl sculpture carved out of wood",
+    "price": "$54.99"
+  },
+  {
+    "category":"household",
+    "image": "/images/petate.jpg",
+   " title": "Petate ",
+    "description": " Handknitted palm straw rug 3.5'x6'",
+    "price": "$129.99"
+  },
+  {
+    "category":"clothing",
+    "image": "/images/guayabera.jpg",
+   " title": "Mens Guayabera ",
+    "description": " Handstitched Mens Button Up",
+    "price": "34.99"
+  },
+
+  {
+    "category":"clothing",
+      "image":"/images/blusa.jpg",
+     " title": "Blusa Artesenal",
+      "description": " Handstitched womans blouse",
+      "price": "$24.99"
+    },
+    {
+      "category":"clothing",
+      "image":"/images/vestido.jpg",
+     " title": " Vestido Artesenal ",
+      "description": " Handwoven Artesenal Dress",
+      "price": "$34.99"
+    },
+    {
+      "category":"clothing",
+      "image": "/images/huaraches.jpg",
+     " title": "Huaraches ",
+      "description": " Handmade Leather Flats",
+      "price": "$39.99"
+    },
+    {
+      "category":"accessories",
+      "image": "/images/hamaca.jpg",
+     " title": "Hamaca",
+      "description": " Handwoven Hammock 110.2\" ",
+      "price": "59.99"
+  },
+    {
+      "category":"accessories",
+      "image": "/images/tenate.jpg",
+     " title": "Tenate",
+      "description": " Handwoven Straw Basket ",
+      "price": "9.99"
+  },
+  {
+    "category":"accessories",
+    "image": "/images/bolosartesenal.jpg",
+   " title": "Bolso Artesenal",
+    "description": " Handwoven Handbag ",
+    "price": "27.99"
+}
+,
+  {
+    "category":"accessories",
+    "image": "/images/servilletas.jpg",
+   " title": "Servilleta Bordada",
+    "description": " Handmade tablecloth ",
+    "price": "27.99"
+}
+
+]
+}
